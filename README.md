@@ -33,9 +33,16 @@ Providing insights and potential biological relevance of the statistical finding
 # Key Python Packages Used:
 
 pandas: For data manipulation and analysis (e.g., DataFrames, reading data, grouping, calculating statistics).
+
 numpy: For numerical operations, especially with arrays.
+
 sklearn.preprocessing: For data scaling (StandardScaler) and encoding categorical features (LabelEncoder).
+
 seaborn: For creating informative and attractive statistical graphics (e.g., heatmaps, countplots, boxplots, bar plots).
+
 matplotlib.pyplot: For creating static, interactive, and animated visualizations in Python (used in conjunction with seaborn).
+
 scipy.stats: For statistical tests like ANOVA (f_oneway) and T-tests (ttest_ind).
+
 plotly.express: For creating interactive visualizations.
+
